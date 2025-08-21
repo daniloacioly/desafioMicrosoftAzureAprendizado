@@ -1,27 +1,58 @@
-☁️ Computação em Nuvem
-Entrega de recursos de TI pela internet, com agilidade, escalabilidade e menor custo.
+#  Computação em Nuvem  
+Entrega de recursos de TI pela internet, com **agilidade, escalabilidade e menor custo**.  
 
-🔒 Nuvem Privada: infraestrutura exclusiva da organização, restrita ao seu datacenter.
-🌍 Nuvem Pública: serviços de provedores acessíveis a múltiplos clientes pela internet.
-🔗 Nuvem Híbrida: mistura pública e privada, permitindo rodar cargas no ambiente mais adequado.
 
-💰 CapEx: investimento inicial em hardware físico, depreciado com o tempo.
-💳 OpEx: pagamento sob demanda por serviços utilizados.
 
-📜 SLA (Acordo de Nível de Serviço)
-Define a disponibilidade garantida pelo provedor. Replicações de dados podem afetar o percentual de uptime.
+##  Tipos de Nuvem  
+-  **Privada**: infraestrutura exclusiva da organização, restrita ao seu datacenter.  
+-  **Pública**: serviços de provedores acessíveis a múltiplos clientes pela internet.  
+-  **Híbrida**: combinação de pública e privada, executando cargas no ambiente mais adequado.  
 
-⚙️ Modelos de Serviço
 
-IaaS: acesso a servidores, rede e armazenamento.
 
-PaaS: ambiente pronto para desenvolver e implantar apps.
+##  Modelos de Custos  
+- **CapEx (Capital Expenditure)**: investimento inicial em hardware físico, depreciado com o tempo.  
+- **OpEx (Operational Expenditure)**: pagamento sob demanda pelos serviços consumidos.  
 
-SaaS: softwares prontos, acessíveis pela web.
 
-🔍 Portal Azure
-Central único para todos os clientes, personalizável em idioma e layout. Os serviços podem ser filtrados por categoria.
+##  SLA - Service Level Agreement  
+Contrato que define a **disponibilidade garantida** dos serviços.  
+> Replicações de dados entre regiões podem impactar o percentual de uptime.  
 
-🌐 Rede: Bastion, Gateways NAT, IPs públicos, DNS, redes virtuais.
-🗄️ Armazenamento: discos, contas de storage, criptografia.
-⬆️ Migração: Data Box e ferramentas de migração.
+
+
+##  Modelos de Serviço em Nuvem  
+- **IaaS (Infraestrutura como Serviço)**: acesso a servidores, rede e armazenamento.  
+- **PaaS (Plataforma como Serviço)**: ambiente pronto para desenvolver e implantar aplicativos.  
+- **SaaS (Software como Serviço)**: softwares prontos, acessíveis pela web.  
+
+
+
+##  Portal Azure  
+Interface única para todos os clientes, com opção de personalização (idioma e layout).  
+Permite filtrar **serviços por categoria**.  
+
+
+
+##  Serviços de Rede  
+- Azure Bastion  
+- Gateways NAT  
+- Endereços e Prefixos IP público  
+- Redes virtuais  
+- Zonas DNS  
+
+
+
+##  Serviços de Armazenamento  
+- Discos  
+- Contas de armazenamento  
+- Criptografia de disco  
+- Storage Explorer  
+
+
+
+##  Serviços de Migração  
+- Azure Data Box  
+- Ferramentas de migração de armazenamento  
+
+
